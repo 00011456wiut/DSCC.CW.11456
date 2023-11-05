@@ -1,4 +1,25 @@
 ﻿<Properties StartupConfiguration="{C5BE1650-3872-4206-8112-E7C4CB077646}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.DSCC.API.11456 FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DSCC.API.11456/Context/UniContext.cs">
+    <Files>
+      <File FileName="DSCC.API.11456/Context/UniContext.cs" Line="8" Column="79" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DSCC.API.11456" expanded="True">
+            <Node name="DSCC.API.11456" expanded="True">
+              <Node name="Migrations" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.DSCC.API.11456 PreferredExecutionTarget="/Applications/Google Chrome.app" FirstBuild="True" />
 </Properties>
