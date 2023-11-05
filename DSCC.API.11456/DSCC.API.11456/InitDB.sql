@@ -164,6 +164,330 @@ VALUES (
     2
 )
 
+INSERT INTO [dbo].[Blogs]
+([Title], [CoverImage], [Author], [Content], [CreatedAt], [LikeCount], [UniversityId])
+VALUES (
+    'Dummy Blog #4',
+    'https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80',
+    'Lorem ipsum',
+    'Lorem ipsum',
+    'Sun Mar 26 2023 13:56:04 GMT+0500 (Uzbekistan Standard Time)',
+    0,
+    1
+)
+
+INSERT INTO [dbo].[Blogs]
+([Title], [CoverImage], [Author], [Content], [CreatedAt], [LikeCount], [UniversityId])
+VALUES (
+    'Dummy Blog #5',
+    'https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80',
+    'Lorem ipsum',
+    'Lorem ipsum',
+    'Sun Mar 26 2023 13:56:04 GMT+0500 (Uzbekistan Standard Time)',
+    0,
+    1
+)
+
+INSERT INTO [dbo].[Blogs]
+([Title], [CoverImage], [Author], [Content], [CreatedAt], [LikeCount], [UniversityId])
+VALUES (
+    'Dummy Blog #6',
+    'https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80',
+    'Lorem ipsum',
+    'Lorem ipsum',
+    'Sun Mar 26 2023 13:56:04 GMT+0500 (Uzbekistan Standard Time)',
+    0,
+    1
+)
+
+INSERT INTO [dbo].[Blogs]
+([Title], [CoverImage], [Author], [Content], [CreatedAt], [LikeCount], [UniversityId])
+VALUES (
+    'Dummy Blog #7',
+    'https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80',
+    'Lorem ipsum',
+    'Lorem ipsum',
+    'Sun Mar 26 2023 13:56:04 GMT+0500 (Uzbekistan Standard Time)',
+    0,
+    1
+)
+
+INSERT INTO [dbo].[Blogs]
+([Title], [CoverImage], [Author], [Content], [CreatedAt], [LikeCount], [UniversityId])
+VALUES (
+    'Dummy Blog #8',
+    'https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80',
+    'Lorem ipsum',
+    'Lorem ipsum',
+    'Sun Mar 26 2023 13:56:04 GMT+0500 (Uzbekistan Standard Time)',
+    0,
+    1
+)
+
+INSERT INTO [dbo].[Blogs]
+([Title], [CoverImage], [Author], [Content], [CreatedAt], [LikeCount], [UniversityId])
+VALUES (
+    'Dummy Blog #9',
+    'https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80',
+    'Lorem ipsum',
+    'Lorem ipsum',
+    'Sun Mar 26 2023 13:56:04 GMT+0500 (Uzbekistan Standard Time)',
+    0,
+    1
+)
+
+INSERT INTO [dbo].[Blogs]
+([Title], [CoverImage], [Author], [Content], [CreatedAt], [LikeCount], [UniversityId])
+VALUES (
+    'Dummy Blog #10',
+    'https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80',
+    'Lorem ipsum',
+    'Lorem ipsum',
+    'Sun Mar 26 2023 13:56:04 GMT+0500 (Uzbekistan Standard Time)',
+    0,
+    1
+)
+
+INSERT INTO [dbo].[Blogs]
+([Title], [CoverImage], [Author], [Content], [CreatedAt], [LikeCount], [UniversityId])
+VALUES (
+    'Dummy Blog #11',
+    'https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80',
+    'Lorem ipsum',
+    'Lorem ipsum',
+    'Sun Mar 26 2023 13:56:04 GMT+0500 (Uzbekistan Standard Time)',
+    0,
+    1
+)
+
+INSERT INTO [dbo].[Blogs]
+([Title], [CoverImage], [Author], [Content], [CreatedAt], [LikeCount], [UniversityId])
+VALUES (
+    'Dummy Blog #12',
+    'https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80',
+    'Lorem ipsum',
+    'Lorem ipsum',
+    'Sun Mar 26 2023 13:56:04 GMT+0500 (Uzbekistan Standard Time)',
+    0,
+    1
+)
+
+INSERT INTO [dbo].[Blogs]
+([Title], [CoverImage], [Author], [Content], [CreatedAt], [LikeCount], [UniversityId])
+VALUES (
+    'Dummy Blog #13',
+    'https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80',
+    'Lorem ipsum',
+    'Lorem ipsum',
+    'Sun Mar 26 2023 13:56:04 GMT+0500 (Uzbekistan Standard Time)',
+    0,
+    1
+)
+
+INSERT INTO [dbo].[Blogs]
+([Title], [CoverImage], [Author], [Content], [CreatedAt], [LikeCount], [UniversityId])
+VALUES (
+    'Dummy Blog #14',
+    'https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80',
+    'Lorem ipsum',
+    'Lorem ipsum',
+    'Sun Mar 26 2023 13:56:04 GMT+0500 (Uzbekistan Standard Time)',
+    0,
+    1
+)
+
+INSERT INTO [dbo].[Blogs]
+([Title], [CoverImage], [Author], [Content], [CreatedAt], [LikeCount], [UniversityId])
+VALUES (
+    'Dummy Blog #15',
+    'https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80',
+    'Lorem ipsum',
+    'Lorem ipsum',
+    'Sun Mar 26 2023 13:56:04 GMT+0500 (Uzbekistan Standard Time)',
+    0,
+    1
+)
+
+INSERT INTO [dbo].[Blogs]
+([Title], [CoverImage], [Author], [Content], [CreatedAt], [LikeCount], [UniversityId])
+VALUES (
+    'Dummy Blog #16',
+    'https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80',
+    'Lorem ipsum',
+    'Lorem ipsum',
+    'Sun Mar 26 2023 13:56:04 GMT+0500 (Uzbekistan Standard Time)',
+    0,
+    1
+)
+
+INSERT INTO [dbo].[Blogs]
+([Title], [CoverImage], [Author], [Content], [CreatedAt], [LikeCount], [UniversityId])
+VALUES (
+    'Dummy Blog #17',
+    'https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80',
+    'Lorem ipsum',
+    'Lorem ipsum',
+    'Sun Mar 26 2023 13:56:04 GMT+0500 (Uzbekistan Standard Time)',
+    0,
+    1
+)
+
+INSERT INTO [dbo].[Blogs]
+([Title], [CoverImage], [Author], [Content], [CreatedAt], [LikeCount], [UniversityId])
+VALUES (
+    'Dummy Blog #18',
+    'https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80',
+    'Lorem ipsum',
+    'Lorem ipsum',
+    'Sun Mar 26 2023 13:56:04 GMT+0500 (Uzbekistan Standard Time)',
+    0,
+    1
+)
+
+INSERT INTO [dbo].[Blogs]
+([Title], [CoverImage], [Author], [Content], [CreatedAt], [LikeCount], [UniversityId])
+VALUES (
+    'Dummy Blog #19',
+    'https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80',
+    'Lorem ipsum',
+    'Lorem ipsum',
+    'Sun Mar 26 2023 13:56:04 GMT+0500 (Uzbekistan Standard Time)',
+    0,
+    1
+)
+
+INSERT INTO [dbo].[Blogs]
+([Title], [CoverImage], [Author], [Content], [CreatedAt], [LikeCount], [UniversityId])
+VALUES (
+    'Dummy Blog #20',
+    'https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80',
+    'Lorem ipsum',
+    'Lorem ipsum',
+    'Sun Mar 26 2023 13:56:04 GMT+0500 (Uzbekistan Standard Time)',
+    0,
+    1
+)
+
+INSERT INTO [dbo].[Blogs]
+([Title], [CoverImage], [Author], [Content], [CreatedAt], [LikeCount], [UniversityId])
+VALUES (
+    'Dummy Blog #21',
+    'https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80',
+    'Lorem ipsum',
+    'Lorem ipsum',
+    'Sun Mar 26 2023 13:56:04 GMT+0500 (Uzbekistan Standard Time)',
+    0,
+    1
+)
+
+INSERT INTO [dbo].[Blogs]
+([Title], [CoverImage], [Author], [Content], [CreatedAt], [LikeCount], [UniversityId])
+VALUES (
+    'Dummy Blog #22',
+    'https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80',
+    'Lorem ipsum',
+    'Lorem ipsum',
+    'Sun Mar 26 2023 13:56:04 GMT+0500 (Uzbekistan Standard Time)',
+    0,
+    1
+)
+
+INSERT INTO [dbo].[Blogs]
+([Title], [CoverImage], [Author], [Content], [CreatedAt], [LikeCount], [UniversityId])
+VALUES (
+    'Dummy Blog #23',
+    'https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80',
+    'Lorem ipsum',
+    'Lorem ipsum',
+    'Sun Mar 26 2023 13:56:04 GMT+0500 (Uzbekistan Standard Time)',
+    0,
+    1
+)
+
+INSERT INTO [dbo].[Blogs]
+([Title], [CoverImage], [Author], [Content], [CreatedAt], [LikeCount], [UniversityId])
+VALUES (
+    'Dummy Blog #24',
+    'https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80',
+    'Lorem ipsum',
+    'Lorem ipsum',
+    'Sun Mar 26 2023 13:56:04 GMT+0500 (Uzbekistan Standard Time)',
+    0,
+    1
+)
+
+INSERT INTO [dbo].[Blogs]
+([Title], [CoverImage], [Author], [Content], [CreatedAt], [LikeCount], [UniversityId])
+VALUES (
+    'Dummy Blog #25',
+    'https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80',
+    'Lorem ipsum',
+    'Lorem ipsum',
+    'Sun Mar 26 2023 13:56:04 GMT+0500 (Uzbekistan Standard Time)',
+    0,
+    1
+)
+
+INSERT INTO [dbo].[Blogs]
+([Title], [CoverImage], [Author], [Content], [CreatedAt], [LikeCount], [UniversityId])
+VALUES (
+    'Dummy Blog #26',
+    'https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80',
+    'Lorem ipsum',
+    'Lorem ipsum',
+    'Sun Mar 26 2023 13:56:04 GMT+0500 (Uzbekistan Standard Time)',
+    0,
+    1
+)
+
+INSERT INTO [dbo].[Blogs]
+([Title], [CoverImage], [Author], [Content], [CreatedAt], [LikeCount], [UniversityId])
+VALUES (
+    'Dummy Blog #27',
+    'https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80',
+    'Lorem ipsum',
+    'Lorem ipsum',
+    'Sun Mar 26 2023 13:56:04 GMT+0500 (Uzbekistan Standard Time)',
+    0,
+    1
+)
+
+INSERT INTO [dbo].[Blogs]
+([Title], [CoverImage], [Author], [Content], [CreatedAt], [LikeCount], [UniversityId])
+VALUES (
+    'Dummy Blog #28',
+    'https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80',
+    'Lorem ipsum',
+    'Lorem ipsum',
+    'Sun Mar 26 2023 13:56:04 GMT+0500 (Uzbekistan Standard Time)',
+    0,
+    1
+)
+
+INSERT INTO [dbo].[Blogs]
+([Title], [CoverImage], [Author], [Content], [CreatedAt], [LikeCount], [UniversityId])
+VALUES (
+    'Dummy Blog #29',
+    'https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80',
+    'Lorem ipsum',
+    'Lorem ipsum',
+    'Sun Mar 26 2023 13:56:04 GMT+0500 (Uzbekistan Standard Time)',
+    0,
+    1
+)
+
+INSERT INTO [dbo].[Blogs]
+([Title], [CoverImage], [Author], [Content], [CreatedAt], [LikeCount], [UniversityId])
+VALUES (
+    'Dummy Blog #30',
+    'https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80',
+    'Lorem ipsum',
+    'Lorem ipsum',
+    'Sun Mar 26 2023 13:56:04 GMT+0500 (Uzbekistan Standard Time)',
+    0,
+    1
+)
+
 GO
 
 SELECT * from Universities

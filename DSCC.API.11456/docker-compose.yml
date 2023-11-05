@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  dscc.api.11456:
+    image: ${DOCKER_REGISTRY-}dsccapi
+    build:
+      context: .
+      dockerfile: DSCC.API.11456/Dockerfile

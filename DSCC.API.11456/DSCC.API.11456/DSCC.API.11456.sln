@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1705.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DSCC.API.11456", "DSCC.API.11456.csproj", "{E98EB01D-31FC-4452-88D4-380E86A0D82C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E98EB01D-31FC-4452-88D4-380E86A0D82C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E98EB01D-31FC-4452-88D4-380E86A0D82C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E98EB01D-31FC-4452-88D4-380E86A0D82C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E98EB01D-31FC-4452-88D4-380E86A0D82C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49AD12FA-FA92-4385-9B2C-BBE45FDBFC30}
+	EndGlobalSection
+EndGlobal
