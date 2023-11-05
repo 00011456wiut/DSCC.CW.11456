@@ -8,16 +8,9 @@ namespace DSCC.API._11456.Repositories
     public class UniversityRepository : IUniversityRepository
     {
         private readonly UniContext _dbContext;
-        private IServiceCollection connectionString;
-
         public UniversityRepository(UniContext dbContext)
         {
             _dbContext = dbContext;
-        }
-
-        public UniversityRepository(IServiceCollection connectionString)
-        {
-            this.connectionString = connectionString;
         }
 
         public void DeleteUniversity(int universityId)

@@ -1,7 +1,11 @@
-﻿var builder = WebApplication.CreateBuilder(args);
+﻿using DSCC.MVC._11456.Services;
+
+var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+builder.Services.AddHttpClient<IApiService, ApiService>();
 
 var app = builder.Build();
 
