@@ -8,8 +8,8 @@ FROM mcr.microsoft.com/dotnet/sdk:6.0 AS build
 WORKDIR /src
 COPY ["DSCC.API.11456.csproj", "DSCC.API.11456/"]
 RUN dotnet restore "DSCC.API.11456/DSCC.API.11456.csproj"
-COPY . .
 WORKDIR "/src/DSCC.API.11456"
+COPY . .
 RUN dotnet build "DSCC.API.11456.csproj" -c Release -o /app/build
 
 FROM build AS publish
