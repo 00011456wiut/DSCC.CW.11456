@@ -16,11 +16,13 @@
     <None Remove="Services\" />
     <None Remove="Views\Blog\" />
     <None Remove="Views\University\" />
+    <None Remove="publish\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Services\" />
     <Folder Include="Views\Blog\" />
     <Folder Include="Views\University\" />
+    <Folder Include="publish\" />
   </ItemGroup>
   <ItemGroup>
     <None Update="Views\Blog\Details.csharp">
